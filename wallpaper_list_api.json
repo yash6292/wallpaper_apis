@@ -1,1 +1,48 @@
-asa
+{
+  "status": "success",
+  "wallpaper_data": [
+    {
+      "id": "1",
+      "wallpaper_image": "https://res.cloudinary.com/rb-computing/image/upload/v1643722707/WillyWallpapers/high_quality/wallpaper10_wbtxb9.jpg"
+    },
+    {
+      "id": "1",
+      "wallpaper_image": "https://res.cloudinary.com/rb-computing/image/upload/v1643722706/WillyWallpapers/high_quality/wallpaper14_vr5gs6.jpg"
+    },
+    {
+      "id": "1",
+      "wallpaper_image": "https://res.cloudinary.com/rb-computing/image/upload/v1643722705/WillyWallpapers/high_quality/wallpaper12_pjp3ia.jpg"
+    },
+    {
+      "id": "1",
+      "wallpaper_image": "https://res.cloudinary.com/rb-computing/image/upload/v1643722705/WillyWallpapers/high_quality/wallpaper5_yfdyhx.jpg"
+    },
+    {
+      "id": "1",
+      "wallpaper_image": "https://res.cloudinary.com/rb-computing/image/upload/v1643722705/WillyWallpapers/high_quality/wallpaper20_yyomub.jpg"
+    },
+    {
+      "id": "1",
+      "wallpaper_image": "https://res.cloudinary.com/rb-computing/image/upload/v1643722704/WillyWallpapers/high_quality/wallpaper23_kplcnp.jpg"
+    },
+    {
+      "id": "1",
+      "wallpaper_image": "https://res.cloudinary.com/rb-computing/image/upload/v1643722704/WillyWallpapers/high_quality/wallpaper6_ddb4uc.jpg"
+    },
+    {
+      "id": "1",
+      "wallpaper_image": "https://res.cloudinary.com/rb-computing/image/upload/v1643722704/WillyWallpapers/high_quality/wallpaper30_ktvtzt.jpg"
+    },
+    {
+      "id": "1",
+      "wallpaper_image": "https://res.cloudinary.com/rb-computing/image/upload/v1643722704/WillyWallpapers/high_quality/wallpaper26_oxd8vo.jpg"
+    }
+  ],
+  "live_wallpaper_data": [
+    {
+      "id": "1",
+      "wallpaper_image": "https://yash6292.github.io/ganesha_ringtones_data/img14.jpeg",
+      "wallpaper_image_url": "https://yash6292.github.io/category/WhatsApp%20Video%202023-07-05%20at%203.25.52%20PM.mp4"
+    }
+  ]
+}
